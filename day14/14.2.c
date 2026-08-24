@@ -15,4 +15,4 @@ int main()
     printf("%d", product);
 
     return 0;
-}
+}ls -lh day14
