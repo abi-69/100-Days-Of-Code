@@ -23,3 +23,4 @@ int main(void) {
            employee.joining_date.month, employee.joining_date.year);
     return 0;
 }
+/* Day 96 progress checkpoint */
